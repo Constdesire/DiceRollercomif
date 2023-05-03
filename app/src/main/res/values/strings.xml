@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jogue o Dado</string>
+    <string name="roll">Jogue</string>
+    <string name="number_of_sort">Digite um numero</string>
+</resources>
